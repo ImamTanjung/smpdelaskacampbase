@@ -1,0 +1,2 @@
+# smpdelaskacampbase
+Database for all
